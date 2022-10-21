@@ -3,8 +3,11 @@ body{
  padding-bottom:  80px;
  }
  p{
-    text-align: left;
-    text-indent: 15px;    
+    position: absolute;
+    bottom: 50x;
+    left: 170px;
+    z-index: 1;
+    text-align: justify;  
     }    
 figure.foto-legenda img{
      width: 20%;
