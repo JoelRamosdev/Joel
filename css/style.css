@@ -97,10 +97,12 @@ h2{
         font-weight: bold;
     }
     figure.foto-Habilidades img{
-        width: 5%;    
-        height: 5%;
-        margin-right: 2%;
-        margin-bottom: 0%;
+       /*width: 4%;    
+     height: 4%;*/
+     position: relative;
+     margin-left: 2%;
+     bottom: 20Px;
+     left: -35px;     
         
     }
    figure.foto-fale {
