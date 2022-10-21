@@ -1,6 +1,15 @@
 body{
- background-color: blue;
- padding-bottom:  80px;
+    background-image: url(Imagens/modern-futuristic-sci-fi-background.png);
+    background-repeat: no-repeat;
+    background-size: 100%; 
+    background-attachment: fixed;
+    background-color: #000;
+ }
+ .background{
+    width: 430px;
+    height: 430px;
+    border-radius: 50%;
+    border: 10px solid #ffff;
  }
  p{
     position: absolute;
@@ -105,19 +114,19 @@ h3{
      bottom: 20Px;
      left: -35px;         
     }
-h4 {
-    color:white;   
-    font-size: 10px;
-    margin-left: -4%;
-    font-family:Arial, Helvetica, sans-serif;
-    font-weight: bold;
-    }
-.foto-fale{  
- position: relative;
- margin-left: -3%;
- bottom: 20px;
- left: -50px;     
- }
+     h4 {
+      color:white;   
+     font-size: 50px;
+     margin-left: -4%;
+     font-family:Arial, Helvetica, sans-serif;
+     font-weight: bold;
+     }
+     .foto-fale{  
+     position: relative;
+     margin-left: -3%;
+     bottom: 0px;
+     left: 0px;     
+     }
 
         
   
