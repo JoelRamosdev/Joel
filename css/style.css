@@ -67,11 +67,11 @@ h2{
         transition: background .4s;
     }
         #menu-h ul li a:hover {
-        background-color: rgb(23, 139, 233);                   
+        background-color: rgb(0, 0, 255);                   
     }
     #menu-h ul li:last-child a {
         float: right;
-        background-color: rgb(24, 139, 233);
+        background-color: rgb(0, 0, 255);
     }
 
     .foto-hello{
