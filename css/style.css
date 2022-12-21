@@ -1,3 +1,8 @@
+*, 
+::before, ::after {
+    padding: 0;
+    margin: 0;
+}
 
 body{
     background-image: url(../Imagens/future-background-img.png);
@@ -31,16 +36,10 @@ h1{
     } 
     hr{
         height: 1px;
-        background-color: white;
-        border-color: white;        
+        background-color: black;
+        border-color: black;        
       }
-    *{
-        margin: 10 auto;
-        padding: 0;
-        box-sizing: border-box;
-        font-family: Arial, Helvetica, sans-serif;
-    }
-    #manu h{
+        #manu h{
         background-color: rgb(37, 37, 39);
     }
     #menu-h ul {
@@ -66,7 +65,6 @@ h1{
         float: right;
         background-color: rgb(0, 0, 255);
     }
-
     .foto-hello{
       display: flex;
         color:white;
@@ -83,19 +81,21 @@ h2, h3, h4 {
         font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
         font-weight: bold;
     }
-    .foto-Habilidades img {
-     position: relative;
-     margin-left: 2%;
-     bottom: 20Px;
-     left: -35;        
+    
+    i
+    .Habilidades-img {
+        position: relative;
+        margin-left: -300;
+        bottom: auto;
+        left: 30px;
+              
+        
     }
-    .foto-fale{  
-     position: relative;
-     margin-left: -3%;
-     bottom: 0px;
-     left: 0px; 
-     
-     }
-
+    .social-img {  
+    display: block;
+    margin-left: auto;
+    margin-right: auto;     
+    }
+    
         
   
