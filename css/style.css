@@ -34,3 +34,10 @@ a {
     font-weight: bolder;
     /* configuração do link com meu nome abaixo da foto*/    
 }
+a:hover{
+    color: #fff;
+    padding: 10px;
+    text-decoration: underline ;
+    transition: .4s;
+    /* movimento dos icones e link*/
+}
