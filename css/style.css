@@ -16,3 +16,10 @@ body {
     padding-top: 150px;
     /* configuração da foto do perfil*/
 }
+figure {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-inline-start: 1px;
+    /* configração dos links dos icones*/   
+}
