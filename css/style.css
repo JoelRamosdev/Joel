@@ -23,3 +23,14 @@ figure {
     padding-inline-start: 1px;
     /* configração dos links dos icones*/   
 }
+a {
+    text-decoration: none;
+    color: #666;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    padding-top: 10px;
+    font-weight: bolder;
+    /* configuração do link com meu nome abaixo da foto*/    
+}
