@@ -41,3 +41,8 @@ a:hover{
     transition: .4s;
     /* movimento dos icones e link*/
 }
+p {
+    text-align: center;
+    font-weight: bolder;
+    /* Config. da frase entre linhas*/
+  }
