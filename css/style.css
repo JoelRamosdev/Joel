@@ -1,9 +1,9 @@
 body{
-    background-image: url(../Imagens/future-background-img.png);
+    background-color: #191970;
     background-repeat: no-repeat;
     background-size: 100%; 
     background-attachment: fixed;
-    background-color: #000;
+    /*background-color: #000;*/
 } 
 body {
     font-family: Raleway,sans-serif;
