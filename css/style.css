@@ -13,7 +13,8 @@ body {
 #ft-perfil {
     display: block;
     margin: 0 auto;    
-    padding-top: 150px;
+    padding-top: 150px; 
+   
     /* configuração da foto do perfil*/
 }
 figure {
