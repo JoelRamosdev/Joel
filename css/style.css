@@ -29,12 +29,12 @@ body {
     list-style: none;
     margin: 0;
     padding: 0;
-    text-align: center;
+    text-align: center;    
   }
   
   .social-icons li {
     display: inline-block;
-    margin-right: 10px;
+    margin-right: 10px;   
   }
   
   .social-icons li:last-child {
