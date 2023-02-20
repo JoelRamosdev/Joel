@@ -10,6 +10,15 @@ body {
     font-size: 1em;
     color: #666
 }
+#data-hora {
+    position: absolute;
+    bottom: 20px;
+    left: 0;
+    padding: 10px;
+    font-size: 18px;
+    font-weight: bolder;
+  }
+
 #ft-perfil {
     display: block;
     margin: 0 auto;    
@@ -57,3 +66,5 @@ p {
     font-weight: bolder;
     /* Config. da frase entre linhas*/
 }
+
+  
