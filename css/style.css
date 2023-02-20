@@ -3,13 +3,11 @@ body {
     background-repeat: no-repeat;
     background-size: 100%; 
     background-attachment: fixed;
-    
-} 
-body {
     font-family: Raleway,sans-serif;
     font-size: 1em;
     color: #666
-}
+} 
+
 #data-hora {
     position: absolute;
     bottom: 20px;
